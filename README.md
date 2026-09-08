@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**AymenFeki/AymenFeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi, I'm Aymen 👋
 
 B.Sc. student in **Statistics and Data Science** at LMU Munich (minor: Economics). I build small, fully-verified projects across applied statistics, quantitative finance, and interactive data tools — real data, tested code, and math worked out from first principles rather than treated as a black box.

@@ -1,6 +1,6 @@
 # Hi, I'm Aymen 👋
 
-B.Sc. student in **Statistics and Data Science** at LMU Munich (minor: Economics). I build small, fully-verified projects across applied statistics, quantitative finance, and interactive data tools — real data, tested code, and math worked out from first principles rather than treated as a black box.
+B.Sc. student in **Statistics and Data Science** at LMU Munich (minor: Economics). I build small, fully-verified projects across applied statistics, quantitative finance, and interactive data tools.
 
 - 🎓 Statistics & Data Science, LMU München — since 2024
 - 📍 Munich, Germany

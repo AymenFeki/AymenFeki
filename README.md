@@ -17,6 +17,7 @@ B.Sc. student in **Statistics and Data Science** at LMU Munich (minor: Economics
 | [**stats-concepts-lab**](https://github.com/AymenFeki/stats-concepts-lab) | Interactive Shiny app for building intuition on the CLT, Type I error/power, and confidence interval coverage — via live simulation | R / Shiny |
 | [**ab-testing-analysis**](https://github.com/AymenFeki/ab-testing-analysis) | A/B test simulation and statistical analysis — hypothesis testing, confidence intervals, power analysis, with full test coverage and CI | Python |
 | [**pbi-job-market**](https://github.com/AymenFeki/pbi-job-market) | Power BI dashboard analyzing salaries across 95K data/stats job postings — star schema, DAX measures, regional pay comparisons | Power BI |
+| [**Social-Inequality**](https://github.com/AymenFeki/Social-Inequality) | University practical project — international panel data on social inequality, cleaned and merged, with trends over time and cross-country comparisons | R |
 
 ## Get in touch
 

@@ -11,6 +11,7 @@ B.Sc. student in **Statistics and Data Science** at LMU Munich (minor: Economics
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**turbofan-rul-prediction**](https://github.com/AymenFeki/turbofan-rul-prediction) | Predicting remaining useful life of jet engines from sensor time series — gradient boosting vs LSTM, 1D-CNN and Transformer, with calibrated prediction intervals and SHAP explanations | Python / PyTorch |
 | [**Robust-covariance-portfolios**](https://github.com/AymenFeki/Robust-covariance-portfolios) | Covariance shrinkage & eigenvalue-clipping estimators for portfolio construction, validated via walk-forward backtesting through the 2008 crisis | Python |
 | [**options-pricing-basics**](https://github.com/AymenFeki/options-pricing-basics) | Option pricing from scratch — binomial tree, Black-Scholes, Monte Carlo — with measured convergence rates, delta hedging, and exotic payoffs | Python |
 | [**life-expectancy-analysis**](https://github.com/AymenFeki/life-expectancy-analysis) | Multi-method analysis of global life expectancy (2000–2015): OLS, mixed-effects models, LASSO, ridge classification, hypothesis testing | R |

@@ -2,10 +2,10 @@
 
 B.Sc. student in Statistics and Data Science at LMU Munich (minor: Economics). I build carefully evaluated projects across applied statistics, quantitative finance, machine learning and LLM systems, from small analyses to a full RAG application running in the cloud.
 
-🎓 Statistics & Data Science, LMU München — since 2024
-📍 Munich, Germany
-🗣️ Arabic & French (native) · German & English (fluent)
-🛠️ Python · R · SQL · PyTorch · Power BI · SAP · Excel
+🎓 Statistics & Data Science, LMU München — since 2024<br>
+📍 Munich, Germany<br>
+🗣️ Arabic & French (native) · German & English (fluent)<br>
+🛠️ Python · R · SQL · PyTorch · Power BI · SAP · Excel<br>
 ☁️ PostgreSQL + pgvector · FastAPI · LangChain · LangGraph · Docker · GitHub Actions · Azure
 
 ## Featured project

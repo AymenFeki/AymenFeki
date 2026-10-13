@@ -5,7 +5,7 @@ B.Sc. student in Statistics and Data Science at LMU Munich (minor: Economics). I
 🎓 Statistics & Data Science, LMU München — since 2024<br>
 📍 Munich, Germany<br>
 🗣️ Arabic & French (native) · German & English (fluent)<br>
-🛠️ Python · R · SQL · PyTorch · Power BI · SAP · Excel<br>
+🛠️ Python · R · SQL · PyTorch · Power BI · Excel<br>
 ☁️ PostgreSQL + pgvector · FastAPI · LangChain · LangGraph · Docker · GitHub Actions · Azure
 
 ## Featured project
@@ -13,12 +13,12 @@ B.Sc. student in Statistics and Data Science at LMU Munich (minor: Economics). I
 ### [paper-tutor](https://github.com/AymenFeki/paper-tutor)
 A study assistant that answers questions only from a curated database of 7,000+ research papers, cites its sources, and refuses when nothing relevant is found.
 
-- **Data pipeline:** OpenAlex papers filtered by credibility rules (venue list, retractions, spam preprint servers), deduplicated, embedded in PostgreSQL + pgvector
+- **Data pipeline:** OpenAlex papers filtered by credibility rules (venue list, retractions, spam preprint servers), deduplicated, embedded in PostgreSQL + pgvector; SQL analytics with CTEs and window functions, GIN full-text index measured at 5,000× faster
 - **Retrieval:** vector search + cross-encoder reranking + a calibrated relevance threshold; evaluated on 444 pooled relevance judgments (hit@5 30/34, MRR 0.76, 84/84 correct answer/refuse decisions)
-- **Apps:** FastAPI service, LangGraph tutor with memory, Streamlit chat, MCP tool for Claude Desktop, n8n automations (daily Telegram quiz, weekly paper refresh)
+- **Apps:** FastAPI service, LangGraph tutor with memory, Streamlit chat, MCP tool for Claude Desktop, and automations: a daily Telegram quiz and a weekly paper refresh (GitHub Actions in the cloud, n8n locally)
 - **Cloud:** Docker image built by GitHub Actions, deployed on Azure Container Apps with Azure PostgreSQL and the Groq API, scale-to-zero and API-key auth
 
-`Python · PostgreSQL · pgvector · FastAPI · LangChain · LangGraph · MCP · n8n · Docker · Azure`
+`Python · SQL · PostgreSQL · pgvector · FastAPI · LangChain · LangGraph · MCP · n8n · Docker · Azure`
 
 ## More projects
 
@@ -35,4 +35,4 @@ A study assistant that answers questions only from a curated database of 7,000+ 
 
 ## Get in touch
 
-📫 Fekiaymen04@gmail.com
+📫 fekiaymen04@gmail.com
